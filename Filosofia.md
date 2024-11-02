@@ -1,2 +1,2 @@
 
-![DevOps](./img/devops-pipeline.jpg)
+![DevOps](./img/Filosifia-DevOps.webp)
