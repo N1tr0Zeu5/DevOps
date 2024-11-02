@@ -1,5 +1,5 @@
 # Herramientas Devops
-![DevOps](./img/devops-pipeline.jpg)
+![DevOps](./img/HerramientasDevOps.jpg)
 > [!NOTE]
 > Cuando tenemos que recurrir a DevOps se nos presentas multiples herramientas que podemos usar dependiendo del trabajo que tengamos que realizar.
 
