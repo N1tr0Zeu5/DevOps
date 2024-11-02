@@ -13,8 +13,19 @@ proporcionan visibilidad sobre el rendimiento y permiten la detección proactiva
 problemas. Además, fomenta una cultura colaborativa donde todos los miembros
 son responsables del éxito del software, promoviendo la comunicación abierta y la
 mejora continua.
-  
-#
+
+
+
+# Objetivos de Devops.
+  1º Ciclos de desarrollo más cortos que favorecen la innovación.  
+  2º Mayor colaboración, mayor comunicación  
+  3º Menores tasas de errores de implementación y acelerar tiempos de recuperación  
+  4º Eficiencia: Mejor gestión de los recursos  
+
+## Sobre DevOps.
+1. [Filosofia](Filosofia.md)
+2. [Herramientas](Herramientas.md)
+3. [Ideas](Ideas.md)
 
 ![DevOps](./img/devops-pipeline.jpg)
 
