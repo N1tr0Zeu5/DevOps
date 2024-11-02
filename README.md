@@ -16,5 +16,5 @@ mejora continua.
   
 #
 
-![DevOps](./img/visigodos-ed.jpg)
+![DevOps](./img/devops-pipeline.jpg)
 
