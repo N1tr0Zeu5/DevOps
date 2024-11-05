@@ -1,15 +1,15 @@
-![](./Imagenes/5.jpg)
+![](https://raw.githubusercontent.com/josemanuellamprea/Devops/refs/heads/main/Imagenes/5.jpg)
 
 ## Oferta de empleo
  Al entrar en [Infojobs.net](https://www.infojobs.net/) y poner en el buscador ***DevOps***, he escogido una oferta que seaplica para mi ya que es para ***juniors***
 
 ### Requisitos
 
-![](./Imagenes/6.png)
+![](https://raw.githubusercontent.com/josemanuellamprea/Devops/refs/heads/main/Imagenes/6.png)
 
 ### Descripción
 
-![](./Imagenes/7.png)
+![](https://raw.githubusercontent.com/josemanuellamprea/Devops/refs/heads/main/Imagenes/7.png)
 
 ### Motivos 
 
